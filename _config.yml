@@ -1,0 +1,19 @@
+title: GPUJake
+email: wynnejr@gpujake.com
+lsi: false
+safe: true
+show_downloads: false
+github:
+  repository_url: https://github.com/JRWynneIII
+  is_project_page: false
+description: >- # this means to ignore newlines until "baseurl:"
+  HPC Storage Systems Engineer
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+#theme: architect
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme 
+  - jekyll-feed
