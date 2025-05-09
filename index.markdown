@@ -5,7 +5,7 @@ layout: default
 # GPUJake
 
 ## Biography
-Born in 1993 in the hills of eastern Tennesse, James "Jake" Wynne III is currently an HPC Storage Systems Engineer at Oak Ridge National Laboratory's National Center for Computational Sciences. While interning at Oak Ridge National Laboratory early in his career, while developing tutorials for using the Titan supercomputer's GPU's, one of his mentors and dear friends gave him the nickname 'GPUJake', and that title has stuck ever since.
+Born in 1993 in the hills of eastern Tennessee, James "Jake" Wynne III is currently an HPC Storage Systems Engineer at Oak Ridge National Laboratory's National Center for Computational Sciences. While interning at Oak Ridge National Laboratory early in his career, while developing tutorials for using the Titan supercomputer's GPU's, one of his mentors and dear friends gave him the nickname 'GPUJake', and that title has stuck ever since.
 
 ## Whitepapers
 ### [Data Transfer Study for HPSS Archiving](https://cug.org/proceedings/cug2015_proceedings/includes/files/pap103.pdf)
