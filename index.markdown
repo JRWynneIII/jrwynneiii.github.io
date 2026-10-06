@@ -14,6 +14,9 @@ This is a whitepaper that I coauthored early in my career, summarizing months of
 ### [Toward an End-to-end Framework for Modeling, Monitoring and Anomaly Detection for Scientific Workflows](https://www.es.net/assets/pubs_presos/paper-LSPP16-Final.pdf)
 I co authored this paper at the end of my internship in the ORNL Future Technologies Group, where I studied compiler design and implemented the ‘Black-box modeling’ feature in the ASPEN performance modeling compiler. Section II was the result of my own work and writing and illustrates the ‘black-box modeling’ algorithm that I contributed to ASPEN. This algorithm uses a Non-Linear Optimization library to better predict performance of applications based upon historical, real-world performance data.
 
+### [Denial-of-Service Defects in Door Servers on OmniOS r151058](https://starcrash.blog)
+This is a paper I helped co author with [Robert French](https://www.robertdfrench.me). This paper describes our findings of a cybersecurity audit we performed on illumos' use of `doors`.
+
 ## Projects
 ### [jNix (or, Just another uNix clone)](https://github.com/JRWynneIII/jnix-cpp)
 jNix is a personal project of mine that I have been using to explore and learn more about kernel development. About 10 years ago, I wrote a very simple 32-bit x86 kernel in C/asm as I followed various tutorials. Similarly, I did the same about 5 years ago as well, but with Rust this time. Finally, this iteration of my project is written in C++ targeting x86_64, and is not based upon any existing tutorials or procedures. I took what I learned from previous projects, and am developing this completely independently. It's still a work in progress
