@@ -14,7 +14,7 @@ This is a whitepaper that I coauthored early in my career, summarizing months of
 ### [Toward an End-to-end Framework for Modeling, Monitoring and Anomaly Detection for Scientific Workflows](https://www.es.net/assets/pubs_presos/paper-LSPP16-Final.pdf)
 I co authored this paper at the end of my internship in the ORNL Future Technologies Group, where I studied compiler design and implemented the ‘Black-box modeling’ feature in the ASPEN performance modeling compiler. Section II was the result of my own work and writing and illustrates the ‘black-box modeling’ algorithm that I contributed to ASPEN. This algorithm uses a Non-Linear Optimization library to better predict performance of applications based upon historical, real-world performance data.
 
-### [Denial-of-Service Defects in Door Servers on OmniOS r151058](https://starcrash.blog)
+### [Denial-of-Service Defects in Door Servers on OmniOS r151058](https://starcrash.blog/Doors-DoS-2026.pdf)
 This paper, co authored by [Robert French](https://www.robertdfrench.me) and I, describes our findings of a cybersecurity audit we performed on illumos' `doors` IPC mechanism. The results of this research found six vulerabilities in the illumos ecosystem. These vulnerabilities were reported to illumos, and resulted in the following CVEs:
 * [CVE-2026-104112](https://www.cve.org/CVERecord?id=CVE-2026-104112): Missing release of passed file descriptors in illumos nscd allows local users to exhaust kernel memory
 * [CVE-2026-104113](https://www.cve.org/CVERecord?id=CVE-2026-104113): Double free in OmniOS and SmartOS ipmgmtd allows local users to crash the daemon
